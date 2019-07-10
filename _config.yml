@@ -26,6 +26,7 @@ soundcloud_username:  sketti
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-windows95
+remote-theme: jekyll-theme-windows95
 plugins:
   - jekyll-feed
 
