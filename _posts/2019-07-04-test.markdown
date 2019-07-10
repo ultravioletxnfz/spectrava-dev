@@ -1,0 +1,15 @@
+﻿---
+layout: default
+intro: true
+title:  "important"
+date:   2019-07-04 00:08:36 -0700
+tag: updates
+---
+new post
+{% highlight ruby %}
+('NEW ALBUM DROP SOON ->-')
+{% endhighlight %}
+
+WATCH THE [SOUNDCLOUD] TO STAY UPDATED
+
+[soundcloud]: https://soundcloud.com/user-515578717-826811804
